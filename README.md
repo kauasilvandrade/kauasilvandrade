@@ -2,7 +2,9 @@
 
 - 🌱 Estudando: HTML5 e CSS3
 
-- 😄 Pronomes: ele/dele 
+- 😄 Idade: 16 anos 
+
+- 🎯 Objetivo: Ser programador Front End
 
 <div align="center">
   <a href="https://github.com/kauasivandrade">
