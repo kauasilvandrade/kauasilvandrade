@@ -1,6 +1,6 @@
 ## Olaa! Eu me chamo Kauã Andrade
 
-- 🌱 Estudando: HTML5 e CSS3
+- 🌱 Estudando: HTML5 e CSS3 e JAVASCRIPT
 
 - 😄 Idade: 16 anos 
 
