@@ -2,7 +2,7 @@
 
 - 🌱 Estudando: HTML5 e CSS3 e JAVASCRIPT
 
-- 😄 Idade: 17 anos 
+- 😄 Idade: 18 anos 
 
 - 🎯 Objetivo: Ser programador Front End
 
