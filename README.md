@@ -1,8 +1,8 @@
 ## Olaa! Eu me chamo Kauã Andrade
 
-- 🌱 Estudando: HTML5 e CSS3 e JAVASCRIPT
+- 🌱 Estudando: JAVASCRIPT, SQL, REACT
 
-- 😄 Idade: 18 anos 
+- 😄 Idade: 19 anos 
 
 - 🎯 Objetivo: Ser programador Front End
 
