@@ -1,6 +1,6 @@
 ## Olaa! Eu me chamo Kauã Andrade
 
-- 🌱 Estudando: JAVASCRIPT, SQL, REACT, TypeScript
+- 🌱 Estudando: SQL, REACT, TypeScript
 
 - 😄 Idade: 19 anos 
 
