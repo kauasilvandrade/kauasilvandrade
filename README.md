@@ -1,15 +1,15 @@
-# 👋 Olá! O meu nome é Kauã Andrade
+# 👋 Olá! O meu nome é Kauã Andrade, tenho 19 anos.
 
 - 🎓 Estudando **Ciência da Computação**
-- 🌱 Atualmente aprendendo **React, TypeScript e SQL**
-- 🎯 Objetivo: Trabalhar como **Desenvolvedor Front-End**
+- 🌱 Atualmente aprendendo **React, TypeScript, PHP, SQL**
+- 🎯 Objetivo: Trabalhar como **Desenvolvedor Front-End Full Stack**
 - 📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Front-End:** HTML, CSS, JavaScript, TypeScript, SQL
+- **Front-End:** HTML, CSS, JavaScript, TypeScript, SQL e PHP 
 - **Bibliotecas:** React, Tailwind
 - **Ferramentas:** Git, GitHub, Visual Studio Code, Figma 
 
