@@ -1,4 +1,4 @@
-# 👋 Olá! O meu nome é Kauã Andrade, tenho 19 anos.
+# 👋 Oiê, o meu nome é Kauã, tenho 19 anos.
 
 - 🎓 Estudando **Ciência da Computação**
 - 🌱 Atualmente aprendendo **React, TypeScript, PHP, SQL**
